@@ -5,7 +5,7 @@ but you have to modify it for your needs.
 Open options/models.py and modify Options class.
 
 ## Installation
-    Copy this app to ypu project, then change settings.py
+Copy this app to ypu project, then change settings.py
 
     INSTALLED_APPS = (
         ..
@@ -14,7 +14,7 @@ Open options/models.py and modify Options class.
 
     TEMPLATE_CONTEXT_PROCESSORS = (
         ...
-        'djtest.options.context_processors.options_cp',
+        'options.context_processors.options_cp',
     )
 
 ## Usage
