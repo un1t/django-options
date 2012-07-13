@@ -25,7 +25,7 @@ Copy this app to ypu project, then change settings.py
 
 ### In views
     
-    from options.models import get_option
+    from options import get_option
     site_name = get_option('site_name')
 
 
