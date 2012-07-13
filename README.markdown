@@ -1,4 +1,4 @@
-# oprions
+# options
 Kind of reusable django application. You could use this code for you project,
 but you have to modify it for your needs. 
 
